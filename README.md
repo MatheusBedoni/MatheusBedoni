@@ -35,15 +35,15 @@ Sou um desenvolvedor com larga experiência em arquitetura de projetos e testes 
 
 💼 Experiência Profissional
 
-Bolsista em Ciência de Dados @ Embrapa-RR (2026): Aplicação de técnicas de análise de dados e pesquisa científica.  
+@ Embrapa-RR (2026): Aplicação de técnicas de análise de dados e pesquisa científica.  
 
-Desenvolvedor Flutter @ NEOS (2021 - 2026): Desenvolvimento mobile e web para grandes redes varejistas do sul e sudeste, lidando com arquiteturas de alta demanda e milhares de usuários ativos.  Professor & Consultor 
+@ NEOS (2021 - 2026): Desenvolvimento mobile e web para grandes redes varejistas do sul e sudeste, lidando com arquiteturas de alta demanda e milhares de usuários ativos.
 
-@ SuperProf (2020 - Presente): Mentoria particular para mais de 50 alunos na criação e resolução de problemas em projetos Flutter.  Desenvolvedor FullStack 
+@ SuperProf (2020 - Presente): Mentoria particular para mais de 50 alunos na criação e resolução de problemas em projetos Flutter.  
 
-@ Sefaz-RR (2019 - 2021): Renovação tecnológica de servidores públicos, construindo APIs no Laravel e interfaces no Flutter.  Professor de Programação 
+@ Sefaz-RR (2019 - 2021): Renovação tecnológica de servidores públicos, construindo APIs no Laravel e interfaces no Flutter. 
 
-@ Patrulha Eureka (2018 - 2019): Ensino de lógica para crianças e desenvolvimento de softwares internos em Node.js.  Programador Android 
+@ Patrulha Eureka (2018 - 2019): Ensino de lógica para crianças e desenvolvimento de softwares internos em Node.js.  
 
 @ ConstróiAí? (2017 - 2018): Desenvolvimento do aplicativo nativo pioneiro em Java.  
 
