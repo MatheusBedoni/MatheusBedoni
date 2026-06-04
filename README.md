@@ -1,4 +1,4 @@
-## Oi, eu sou o Matheus Bedoni de Sousa 👋
+## Oi, eu sou o Matheus Bedoni 👋
 
 <!--
 **MatheusBedoni/MatheusBedoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
