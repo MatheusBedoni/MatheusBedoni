@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋I'm a Senior Flutter & Full Stack Developer, Data Science Practitioner, and Programming Mentor.
 
 Sou um desenvolvedor com larga experiência em arquitetura de projetos e testes unitários. Comecei minha jornada no desenvolvimento nativo com Java e evoluí para a construção de soluções em larga escala no varejo, atuando de ponta a ponta: desde a modelagem de banco de dados até a interface final. Atualmente, estou unindo minha bagagem de engenharia de software com a Ciência de Dados para desenvolver inteligências artificiais e modelos de linguagem. 
 
