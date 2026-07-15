@@ -29,7 +29,7 @@ Sou um desenvolvedor com larga experiência em arquitetura de projetos e testes 
 
 💬 Me pergunte sobre: Clean Architecture no Flutter (BLOC, GetX, Modular), APIs no Laravel, e estratégias de monetização de aplicativos.
 
-📫 Como me encontrar: [Meu Perfil no Linkedin](https://www.linkedin.com/in/matheus-bedoni-76295870/) [LittleBugLabs](https://www.littlebuglabs.space/)
+📫 Como me encontrar: [Meu Perfil no Linkedin](https://www.linkedin.com/in/matheus-bedoni-76295870/) & [LittleBugLabs](https://www.littlebuglabs.space/)
 . 
 
 🛠️ Tech Stack & FerramentasMobile DevelopmentFlutter & Dart  Gerência de Estado: BLOC, GetX, MobX, Provider  Arquitetura & Qualidade: Modular, Mockito, WidgetTest, Null Safety  Recursos Nativos & Integrações: Google Maps, Geolocator, Firebase, SQLite, Crypto, Back4App  Android Nativo (Java)  Backend & WebLaravel (PHP) & Node.js  Python  React & Vue.js  APIs & Fintech: Vtex, MercadoPago, MercadoBitcoin, UniSwap  DevOps & DeployDeploy automatizado na AppStore e PlayStore  Vercel, Replit, Lovable  
