@@ -21,7 +21,7 @@ Sou um desenvolvedor com larga experiência em arquitetura de projetos e testes 
 
 🏢 Atuei como Desenvolvedor Flutter na NEOS (2021-2026), criando apps para grandes redes de supermercados com milhões de downloads na Play Store.  
 
-🌱 Estudando Ciência de Dados pela Descomplica EAD e pesquisando ativamente Redes Neurais (RNNs), AutoEncoders e NLP. 
+🌱 Formado em Ciência de Dados pela Descomplica EAD e pesquisando ativamente Redes Neurais (RNNs), AutoEncoders e NLP. 
 
 🎓 Atuo como Embaixador e Mentor de Flutter no SuperProf, auxiliando desenvolvedores de todo o Brasil e do exterior a resolverem desafios complexos de código.
 
