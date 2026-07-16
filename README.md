@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Sou um desenvolvedor com larga experiência em arquitetura de projetos e testes unitários. Comecei minha jornada no desenvolvimento nativo com Java e evoluí para a construção de soluções em larga escala no varejo, atuando de ponta a ponta: desde a modelagem de banco de dados até a interface final. Atualmente, estou unindo minha bagagem de engenharia de software com a Ciência de Dados para desenvolver inteligências artificiais e modelos de linguagem. 
 
-🔭 Atualmente trabalhando como Bolsista de Ciência de Dados na Embrapa-RR e projetando o Agro-Marte, um sistema focado em telemetria, adubação e tratos culturais.
 
 🏢 Atuei como Desenvolvedor Flutter na NEOS (2021-2026), criando apps para grandes redes de supermercados com milhões de downloads na Play Store.  
 
